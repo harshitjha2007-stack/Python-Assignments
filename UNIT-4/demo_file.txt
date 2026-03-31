@@ -1,0 +1,3 @@
+Hello! This is the first line in the file.
+Python file handling demonstration.
+Data appended to the file successfully. 
